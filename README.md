@@ -34,7 +34,10 @@
 
 ## Salida
 
-La siguiente imagen es el resultado en aplicación móvil, lo que se muestra al abrir la aplicación
+<p align="justify">
+  La siguiente imagen es el resultado en aplicación móvil, lo que se muestra al abrir la aplicación.
+  Son tres cards con diferentes textos, al igual que un icono diferente
+</p>
 <p align="center">
 <img src="https://github.com/Daniela06112002/DMI_PRACTICA5_200644/blob/main/screenshots/practica5.jpg" width="20%"/>
 </p>
